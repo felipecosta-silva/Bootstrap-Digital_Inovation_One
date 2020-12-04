@@ -1,0 +1,16 @@
+body {
+    font: 20px 'Roboto', sans-serif;
+}
+
+.navbar {
+    background-color: #296e12;
+}
+
+.quem-somos {
+    background-color: rgb(13, 5, 17);
+    color: #fff;
+}
+
+.margin {
+    padding-bottom: 50px;
+}
