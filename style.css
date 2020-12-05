@@ -11,6 +11,36 @@ body {
     color: #fff;
 }
 
-.margin {
+.quem-somos img {
+    filter : hue-rotate(300deg);
+}
+
+.padding {
+    padding-top: 20px;
     padding-bottom: 50px;
+}
+
+.parceiros {
+    background-color: #383171;
+    color: #fff;
+}
+
+.servicos{
+    background-color: #d7d3f3;
+    color: #000;
+}
+
+.text-serv {
+    height: 200px;
+    margin-top: 5%;
+    margin-bottom: 2%;
+}
+
+.img-serv {
+    height: 230px;
+}
+
+.bg-footer {
+    background-color: #000 ;
+    color: #fff;
 }
