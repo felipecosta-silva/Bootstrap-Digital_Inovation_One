@@ -33,14 +33,15 @@ body {
 .text-serv {
     height: 200px;
     margin-top: 5%;
-    margin-bottom: 2%;
-}
-
-.img-serv {
-    height: 230px;
+    margin-bottom: 5%;
 }
 
 .bg-footer {
     background-color: #000 ;
     color: #fff;
+    justify-content: center;
+    padding: 2% 0;
+}
+.bg-footer p {
+    margin: 0%;
 }
